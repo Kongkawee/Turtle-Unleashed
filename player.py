@@ -310,5 +310,5 @@ def game(name):
 
     print()
     print('GAME OVER!!!')
-    exit()
+    screen.bye()
     return player.score
