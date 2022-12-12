@@ -1,0 +1,34 @@
+{
+    "user_data": [
+        {
+            "name": "Moo",
+            "password": "a",
+            "score": 12
+        },
+        {
+            "name": "AJK",
+            "password": "a",
+            "score": 1
+        },
+        {
+            "name": "Key",
+            "password": "a",
+            "score": 10
+        },
+        {
+            "name": "Arm",
+            "password": "a",
+            "score": 1085
+        },
+        {
+            "name": "LookTa",
+            "password": "a",
+            "score": 0
+        },
+        {
+            "name": "Kong",
+            "password": "a",
+            "score": 0
+        }
+    ]
+}
