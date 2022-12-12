@@ -1,13 +1,13 @@
-#TURTLE UNLEASHED
+# TURTLE UNLEASHED
 
-###Overview
+### Overview
 
-#####This is an adventure-rpg game that roles players as a Turtle to fight against the endless of the evil enemies. Get points as much as enemies you’ve defeated and buff you’ve collected.
+##### This is an adventure-rpg game that roles players as a Turtle to fight against the endless of the evil enemies. Get points as much as enemies you’ve defeated and buff you’ve collected.
 
 
-###Features
+### Features
 
-#####How game work?
+##### How game work?
 
     1. After run the program player can make a decision.
         1 is log In to the game if player already have username and password
@@ -24,9 +24,9 @@
     8. Try to run the program again the top three players who got the most score will be shown on the leaderboard.
 
 
-###Program’s Requirements
+### Program’s Requirements
 
-#####There are 4 Python Modules & Libraries required in this program.
+##### There are 4 Python Modules & Libraries required in this program.
 
     turtle: Used for Gameplay and Graphic
     math: Used for some of mathematic movement in the game
@@ -34,9 +34,9 @@
     random: Used for Gameplay
 
 
-###Program Design
+### Program Design
 
-#####There are 5 classes in this program
+##### There are 5 classes in this program
 
     Player: This class is used for creating and controlling player character status.
     Boost: This class is used for creating buffs and spawn at random positions.
@@ -45,9 +45,9 @@
     Data: This class is used for running all the game stuff and collecting players data.
 
 
-###Code Structure
+### Code Structure
 
-#####main_menu.py: Contain the main menu of the game.
+##### main_menu.py: Contain the main menu of the game.
 
     player.py: Contains all game stuff.
     data.py: Contains and manages player’s data.
